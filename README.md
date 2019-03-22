@@ -4,8 +4,6 @@
 
 **Data set**
 
-![3-Data](Images/3-Data.png)
-
  The USGS provides earthquake data in a number of different formats, updated every 5 minutes. [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). There is a JSON representation of the data which was used for the visualization.
 
 **Import & Visualize the Data**
